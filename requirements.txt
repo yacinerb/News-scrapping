@@ -2,9 +2,8 @@ Flask
 Gunicorn
 requests
 pandas
-bumpy
+numpy
 render_template
 request
 os
 pickle
-app 
