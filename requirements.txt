@@ -3,7 +3,6 @@ Gunicorn
 requests
 pandas
 numpy
-render_template
 request
 os
 pickle
