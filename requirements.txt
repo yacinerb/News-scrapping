@@ -5,3 +5,4 @@ pandas
 numpy
 request
 spacy
+bs4
