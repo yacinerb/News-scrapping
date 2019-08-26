@@ -4,5 +4,3 @@ requests
 pandas
 numpy
 request
-os
-pickle
